@@ -1,0 +1,13 @@
+! - Cleanup Amazon
+amazon.com##*#nav-upnav
+
+! - Clean up Facebook
+facebook.com##*#pagelet_ego_pane
+facebook.com##*#pagelet_games_rhc
+
+! - Clean up The Points Guy
+thepointsguy.com##*.article-disclaimer
+thepointsguy.com##*.widgetbox
+
+! - General
+yahoo.com##*#yucs-top-ff-promo

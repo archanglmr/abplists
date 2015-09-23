@@ -1,0 +1,17 @@
+! - Clean Up Yahoo Finance
+finance.yahoo.com##*#comp_broker
+finance.yahoo.com##*#td-applet-games_container
+finance.yahoo.com##*#td-applet-sidekick-tv_container
+finance.yahoo.com##*.featured-ads
+finance.yahoo.com##*.yom-gettheapp
+
+
+! - Sites linked from Yahoo Finance
+cnbc.com##*.promo
+usatoday.com##div.oembed-asset
+usatoday.com##*.utility-bar-wrap
+thestreet.com##*#navPromo
+
+! - General
+taboola.com
+bounceexchange.com
