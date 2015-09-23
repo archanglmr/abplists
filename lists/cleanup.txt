@@ -1,3 +1,5 @@
+[Adblock Plus 2.0]
+
 ! - Cleanup Amazon
 amazon.com##*#nav-upnav
 
