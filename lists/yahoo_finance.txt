@@ -14,6 +14,7 @@ usatoday.com##div.oembed-asset
 usatoday.com##*.utility-bar-wrap
 thestreet.com##*#navPromo
 investopedia.com##*#abkoverlay
+forbes.com##*.vestpocket
 
 
 ! - General
