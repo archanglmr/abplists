@@ -13,3 +13,5 @@ thepointsguy.com##*.widgetbox
 
 ! - General
 yahoo.com##*#yucs-top-ff-promo
+
+resourcemagonline.com##.header-banner
