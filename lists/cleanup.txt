@@ -15,3 +15,7 @@ thepointsguy.com##*.widgetbox
 yahoo.com##*#yucs-top-ff-promo
 
 resourcemagonline.com##.header-banner
+
+
+! - weather.com
+weather.com##.taboola_module
