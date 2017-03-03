@@ -19,3 +19,7 @@ weather.com##.taboola_module
 normandinchryslerjeep.net##.gg-popup
 autotrader.com##div#spotlights-container
 
+9to5mac.com##.fallback-unit
+9to5toys.com##.fallback-unit
+electrek.co##.fallback-unit
+
