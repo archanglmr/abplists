@@ -23,3 +23,4 @@ autotrader.com##div#spotlights-container
 9to5toys.com##.fallback-unit
 electrek.co##.fallback-unit
 
+.ad-container
